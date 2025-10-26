@@ -1,1 +1,1 @@
-![Org's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wannes-Tom-Master&show_icons=true&theme=radical)
+![Metrics](https://raw.githubusercontent.com/Wannes-Tom-Master/Wannes-Tom-Master/main/github-metrics.svg)
