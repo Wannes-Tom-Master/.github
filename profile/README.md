@@ -1,6 +1,6 @@
 # Wannes & Tom - master labs
 
-In this organisation all master labs that me and my pookie do together are shown.
+In this organisation all master labs that Tom and Wannes make together are grouped.
 
 
 ## Labs
